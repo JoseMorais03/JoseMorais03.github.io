@@ -1,0 +1,10 @@
+h1{ background-color:rgb(51, 153, 153);
+    text-align: center;
+}
+#inicio{
+    color: rgb(230, 14, 14);
+    font-size: 30px;
+ position: absolute;
+right: 25px;
+top: 30px;
+}

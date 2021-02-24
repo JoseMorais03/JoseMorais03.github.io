@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+	
+}
+#legenda{
+font-size: 5px;
+}
+h1{
+background-color: rgba(252, 3, 3,0.6);
+	padding-top: 5px;
+  	padding-right: 15px;
+  	padding-bottom: 5px;
+  	padding-left: 15px;
+	
+}
+
+#p1{
+	font-size: 20px;
+	background-color: #eb4034;
+}
+
+figcaption{
+	text-align: center;
+}
+	
+video{
+	width: 500px;
+}
+#p2{
+	background-color: #ffa366;
+	font-size: 30px;
+	padding-top: 5px;
+  	padding-right: 15px;
+  	padding-bottom: 5px;
+  	padding-left: 15px;
+	}
+table{
+	border: 1px solid black;
+}
+#imagem{
+	border: 10px double #ff751a;	
+	margin-left: 700px;
+	margin-right: 700px;	
+}
+
+h2{
+	color:#20B2AA;
+	font-size:25px;
+}
+h3{
+		color:#808080;
+		font-size: 20px;
+}
+footer{
+	position: absolute;
+	right: 0px;
+	text-align: justify;
+}
